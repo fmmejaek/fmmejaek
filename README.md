@@ -1,5 +1,15 @@
-## Hi there 👋
+## <p align="center">[ROJADESIGN.COM](https://www.rojadesign.com)</p>
 
+<!--##### <p align="center">software engineering team lead & disciplined designer</p>-->
+
+### <p align="center">[PHOTOGRAPHY](https://www.instagram.com/rojadesign.photos) – [RENDER](https://www.instagram.com/rojadesign) – [BLOG](https://www.rojadesign.com/blog) – [ABOUT](https://www.rojadesign.com/about)</p>
+
+Electrical Engineer | Automation Enthusiast | 
+- 🔧 Building real-world systems
+- ⚡ Love clean, maintainable code
+- 📚 Always learning something new
+- Currently working on Predictive Dashboard Development Studio | Prediction Engines | Localised Secure Consciousness core
+- I collaborate to work on No Code, Code based AI / ML / Automation workflows
 <!--
 **fmmejaek/fmmejaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
